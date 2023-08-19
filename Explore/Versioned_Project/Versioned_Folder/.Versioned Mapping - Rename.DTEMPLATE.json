@@ -1,0 +1,28 @@
+{
+  "objectInfo" : {
+    "id" : "ajBZfw7cBfxgagt4zE4bgc",
+    "name" : "Versioned Mapping - Rename",
+    "type" : "DTEMPLATE",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "010002170000000001OR"
+      },
+      "contextAttributes" : [ {
+        "name" : "id",
+        "value" : "@1"
+      } ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "JSON",
+        "documentState" : "INVALID"
+      }
+    }
+  },
+  "dataFileExtension" : "zip",
+  "updateTime" : "2023-08-19T22:07:57.584Z",
+  "objectRefs" : [ ]
+}
